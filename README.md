@@ -33,3 +33,21 @@ MONGO_URI=mongodb://127.0.0.1:27017/inventory_db
 
 ### CREATE PRODUCT -> POST
 ![image alt](https://github.com/Ryangosain/WEB-DEV---3-CAPSTONE---INVENTORY-MANAGEMENT-PROJECT/blob/main/screenshot/post.jpeg?raw=true)
+
+### GET ALL POST
+![image alt](https://github.com/Ryangosain/WEB-DEV---3-CAPSTONE---INVENTORY-MANAGEMENT-PROJECT/blob/main/screenshot/get.jpeg?raw=true)
+
+### GET SINGLE PRODUCT
+![image alt](https://github.com/Ryangosain/WEB-DEV---3-CAPSTONE---INVENTORY-MANAGEMENT-PROJECT/blob/main/screenshot/get%20specific%20element.jpeg?raw=true)
+
+### UPDATE PRODUCT
+![image alt](https://github.com/Ryangosain/WEB-DEV---3-CAPSTONE---INVENTORY-MANAGEMENT-PROJECT/blob/main/screenshot/put.jpeg?raw=true)
+
+### STOCK ADJUSTMENT -> PATCH
+![image alt](https://github.com/Ryangosain/WEB-DEV---3-CAPSTONE---INVENTORY-MANAGEMENT-PROJECT/blob/main/screenshot/stock%20adjustment%20patch.jpeg?raw=true)
+
+### LOW STOCK -> GET
+![image alt](https://github.com/Ryangosain/WEB-DEV---3-CAPSTONE---INVENTORY-MANAGEMENT-PROJECT/blob/main/screenshot/get%20low%20stack.jpeg?raw=true)
+
+### SUMMARY -> GET
+![image alt](https://github.com/Ryangosain/WEB-DEV---3-CAPSTONE---INVENTORY-MANAGEMENT-PROJECT/blob/main/screenshot/get%20summary.jpeg?raw=true)
