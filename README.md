@@ -32,4 +32,4 @@ MONGO_URI=mongodb://127.0.0.1:27017/inventory_db
 ## THUNDER CLIENT SCREENSHOT
 
 ### CREATE PRODUCT -> POST
-![image alt][https://github.com/Ryangosain/WEB-DEV---3-CAPSTONE---INVENTORY-MANAGEMENT-PROJECT/blob/main/screenshot/post.jpeg?raw=true]
+![image alt](https://github.com/Ryangosain/WEB-DEV---3-CAPSTONE---INVENTORY-MANAGEMENT-PROJECT/blob/main/screenshot/post.jpeg?raw=true)
