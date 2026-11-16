@@ -27,3 +27,9 @@ MONGO_URI=mongodb://127.0.0.1:27017/inventory_db
 | DELETE | `/api/products/:id` | Delete product |
 | GET | `/api/products/low-stock` | Low-stock report |
 | GET | `/api/products/summary` | Category-wise summary |
+
+
+## THUNDER CLIENT SCREENSHOT
+
+### CREATE PRODUCT -> POST
+![image alt][https://github.com/Ryangosain/WEB-DEV---3-CAPSTONE---INVENTORY-MANAGEMENT-PROJECT/blob/main/screenshot/post.jpeg?raw=true]
